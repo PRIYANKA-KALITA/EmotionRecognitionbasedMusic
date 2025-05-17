@@ -1,0 +1,11 @@
+backened/venv/
+git_part.txt
+learn_process_proj.txt
+
+node_modules
+__pycache__
+
+.env
+ass6_ass7_leftpart.txt
+future_work.txt
+*.txt
